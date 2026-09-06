@@ -1,0 +1,7 @@
+wp-config.php
+wp-content/debug.log
+debug.log
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
